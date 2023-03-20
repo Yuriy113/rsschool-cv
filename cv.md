@@ -34,13 +34,15 @@ I've been doing front-end development for about a year. Previously engaged in SE
 
 ## Code example:
 
+```
 function digitalRoot(n) {
-let arr = String(n).split('');
-let res = arr.reduce((a, b) => +a + +b, 0);
+  let arr = String(n).split('');
+  let res = arr.reduce((a, b) => +a + +b, 0);
 
-if (String(res).length == 1) {
-return res;
-} else {
-return digitalRoot(res)
+  if (String(res).length == 1) {
+    return res;
+  } else {
+    return digitalRoot(res)
+  }
 }
-}
+```
