@@ -19,3 +19,15 @@
 ## Summary:
 
 I've been doing front-end development for about a year. Previously engaged in SEO promotion of Internet resources and contextual advertising. I am currently developing online games in html 5 using canvas and pixi.js
+
+---
+
+## Key skills:
+
+- HTML, CSS - advanced
+- JavaScript - intermediate
+- Git, Github
+- Webpack, Gulp
+- Sass, Pug
+- PHP - basics
+- React - intermediate
