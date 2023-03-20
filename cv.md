@@ -46,3 +46,14 @@ function digitalRoot(n) {
   }
 }
 ```
+
+## Experience:
+
+- freeCodeCamp (JavaScript Algorithms and Data Structures)
+- React Pizza v.2 (youtube course)
+- code.mu (javascript tutorial)
+
+## Languages:
+
+Russian: native
+English: pre-intermediate
